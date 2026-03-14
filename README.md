@@ -1,6 +1,6 @@
 # Laboratory 1. Waveguides
 
-By: María Ros Téllez and Antonio González López
+By: **María Ros Téllez and Antonio González López**
 
 This repository contains notebooks to validate that the core dependencies for
 the waveguides lab are installed and working. The intended workflow is VS Code
